@@ -1,6 +1,5 @@
 # LedaRojo-EBirds-Proyecto.-IngenieriaDeDatos
-<p> </strong>Proyecto de ingeniería de datos -ETL- que extrae datos de la API EBird, los procesa y almacena en un DataLake en formato DeltaLake.</strong></p>
-r
+</strong>Proyecto de ingeniería de datos -ETL- que extrae datos de la API EBird, los procesa y almacena en un DataLake en formato DeltaLake.</strong>
 
 1. Extracción de una API, como fuente de datos, desde varios endpoints mediante uso de la librería requests.
 2. Conversión los datos obtenidos a DataFrames de Pandas 
