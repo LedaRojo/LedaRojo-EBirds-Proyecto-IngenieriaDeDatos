@@ -3,7 +3,6 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center"> Ingeniería de datos</h3>
 <div align="center">
 <a ref="https://github.com/LedaRojo/LedaRojo-EBirds-Proyecto-IngenieriaDeDatos" target="_blank"><img src="https://github.com/LedaRojo/LedaRojo-EBirds-Proyecto-IngenieriaDeDatos/blob/main/Bird.png"></a>
                                                                                       
