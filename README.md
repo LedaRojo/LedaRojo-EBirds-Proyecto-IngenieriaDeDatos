@@ -5,14 +5,14 @@
 <td width="50%">
 <h3 align="center"> Ingeniería de datos</h3>
 <div align="center">
-<a> ref="https://github.com/LedaRojo/MLearningEnMantenimientoDePlanta" target="_blank"><img src="https://github.com/LedaRojo/MLearningEnMantenimientoDePlanta/blob/main/Bomba.png"></a
+<a> ref="https://github.com/LedaRojo/MLearningEnMantenimientoDePlanta" target="_blank"><img src="https://github.com/LedaRojo/LedaRojo-EBirds-Proyecto-IngenieriaDeDatos/blob/main/Bird.png"></a
                                                                                       
 </td>  
 </table>                                                                                 
 </div>
 <br>
 
-https://github.com/LedaRojo/LedaRojo-EBirds-Proyecto-IngenieriaDeDatos/blob/main/Bird.png
+
 </strong>Proyecto de ingeniería de datos -ETL- que extrae datos de la API EBird, los procesa y almacena en un DataLake en formato DeltaLake.</strong>
 
 1. Extracción de una API, como fuente de datos, desde varios endpoints mediante uso de la librería requests.
